@@ -1,0 +1,54 @@
+.container-fluid{
+  ;
+}
+
+#header-image {
+  height: 400px;
+  width: 100%;
+  ;
+}
+
+
+#header-image img {
+ display: block;
+width:600px ;
+height: 337.5px;
+  margin: auto; 
+}
+
+
+h1, h4 {
+  text-align:center;
+  color: #4c4179;
+  font-family: "Comic Sans MS", "Comic Sans";
+  
+}
+
+#form {
+  padding: 30px 0px 30px 0px;
+  text-align: center;
+  ;
+}
+
+#insert {
+  display: inline;
+}
+
+#click {
+  margin: 20px 20px 0px 10px;
+  display: inline;  
+}
+
+#clack {
+  margin: 20px 20px 0px 10px;
+  display: inline;
+   
+}
+
+#output {
+  background-color: white; 
+}
+
+#random, #search  {
+ background-color: #4c4179;
+}
